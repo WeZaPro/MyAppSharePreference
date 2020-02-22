@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyAppSharePreference</string>
+    <string name="token_key">token</string>
+</resources>
